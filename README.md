@@ -30,4 +30,4 @@
 </p>
 
 ---
-<sub>© 2025 John Halvard — Powered by anti‑technofeudalist coffee.</sub>
+<sub>© 2025 Halvard — Powered by anti‑technofeudalist coffee.</sub>
