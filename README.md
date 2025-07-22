@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I’m John “R Halvard” Halvard</h1>
+<h1 align="center">Hi 👋 Halvard here...</h1>
 
 <p align="center">
   ⛏️ DevOps & Data‑pipeline engineer • 🐍 Python ↔️ ⚙️ Ansible ↔️ 🐘 PostgreSQL • <br/>
