@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I’m John “R Halvard” Halvard</h1>
 
-<!--
-**rhalvard/rhalvard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  ⛏️ DevOps & Data‑pipeline engineer • 🐍 Python ↔️ ⚙️ Ansible ↔️ 🐘 PostgreSQL • <br/>
+  Building anti‑technofeudalist tools for civic transparency.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current focus
+- **DMExplorer** – tracing dark‑money networks across FEC, 501(c), and PAC filings.
+- **Utility‑Scripts** – homelab provisioning & WSL dotfiles.
+
+### 🛠️ Tech toolbox
+![](https://img.shields.io/badge/Python-3.12-blue)  ![](https://img.shields.io/badge/PostgreSQL-16-blue)  
+![](https://img.shields.io/badge/Ansible-7-orange)   ![](https://img.shields.io/badge/AWS-Architect_Associate-yellow)  
+![](https://img.shields.io/badge/CI‑CD-GitHub_Actions-purple)   ![](https://img.shields.io/badge/Kubernetes-CKAD-informational)
+
+### 🌱 Learning now
+- Advanced pandas profiling & Polars query engine.
+- GitHub Actions OIDC + AWS for secret‑less deployments.
+
+### 🤝 Collaborate / Hire Me
+- **Mastodon**: @[RHalvard@fosstodon.org](https://fosstodon.org/@RHalvard)  
+- **Email**: john at firebreaklabs · com
+
+### 📈 GitHub stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RHalvard&show_icons=true&hide=issues&theme=default" alt="Stats"/>
+</p>
+
+---
+<sub>© 2025 John Halvard — Powered by anti‑technofeudalist coffee.</sub>
