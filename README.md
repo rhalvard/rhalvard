@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋 Halvard here...</h1>
 
 <p align="center">
   ⛏️ DevOps & Data‑pipeline engineer • 🐍 Python ↔️ ⚙️ Ansible ↔️ 🐘 PostgreSQL • <br/>
